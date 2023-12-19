@@ -4,6 +4,7 @@ Introduction
 Project Tracker is a dynamic and intuitive web application designed to streamline the management of projects and their associated employees. Built using the Spring Framework, it integrates various technologies like SQL, HTML, CSS, JavaScript, and Thymeleaf, offering a comprehensive solution for tracking project timelines and employee assignments.
 
 Features
+
 Project Management: Easily create, update, and view projects.
 Employee Assignment: Assign and manage employees on different projects.
 Timeline Tracking: Monitor project progress with start and end dates.

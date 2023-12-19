@@ -8,12 +8,14 @@ Features
 
 ![Screenshot 2023-12-19 183817](https://github.com/Kamran2022/Project-Tracker/assets/97768463/9d58322d-c709-4bea-a6df-1fe892244920)
 
-Project Management: Easily create, update, and view projects.
-Employee Assignment: Assign and manage employees on different projects.
-Timeline Tracking: Monitor project progress with start and end dates.
-Database Integration: Utilizes SQL for robust data management.
-Responsive Design: Crafted with HTML, CSS, and JavaScript for a seamless user experience.
-Thymeleaf Integration: Enhances server-side rendering capabilities.
+Certainly, here is the information presented in bullet points:
+
+- Project Management:** Easily create, assign, and view projects.
+- Employee Assignment:** Assign and manage employees on different projects.
+- Timeline Tracking:** Monitor project progress with start and end dates.
+- Database Integration:** Utilizes SQL for robust data management.
+- Responsive Design:** Crafted with HTML, CSS, and JavaScript for a seamless user experience.
+- Thymeleaf Integration:** Enhances server-side rendering capabilities.
 
 Installation
 

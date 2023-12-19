@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{layouts :: header}"></head>
+<body>
+    <nav th:replace="~{layouts :: navbar}"></nav>
+    <div class="container">
+        <form action="/projects/save" th:object="${project}" method="POST">
+            <br>
+            <div class="form-group row">
+                <input type="text" placeholder="Project Name" th:field="*{name}">
+            </div>
+            
+            <div class="form-group row">
+                <select th:field="*{stage}">
+                    <option th:value="NOTSTARTED">Not Started</option>
+                    <option th:value="INPROGRESS">In Progress</option>
+                    <option th:value="COMPLETED">Completed</option>
+                </select>
+            </div>
+            
+            <div class="form-group row">
+                <textarea placeholder="Enter Project Description" th:field="*{description}"></textarea>
+            </div>
+            
+            <div class="form-group row">
+                <select th:field="*{employees}" multiple="multiple">
+                    <option th:each="employee : ${allEmployees}"
+                            th:value="${employee.employeeId}"
+                            th:text="${employee.firstName}">
+                    </option>
+                </select>
+            </div>
+            
+            Start Date:
+            <div class="form-group row">
+                <input id="dp3" type="date" class="mb-4 col-2 col-xs-4" th:field="*{startDate}">
+            </div>
+            
+            End Date:
+            <div class="form-group row">
+                <input id="dp4" type="date" class="mb-4 col-2 col-xs-4" th:field="*{endDate}">
+            </div>
+            
+           
+            
+            <button class="btn btn-info col-2" type="submit">Create Project</button>
+        </form>
+    </div>
+</body>
+</html>
+
+
+
+

@@ -5,6 +5,9 @@ Project Tracker is a dynamic and intuitive web application designed to streamlin
 
 Features
 
+
+![Screenshot 2023-12-19 183817](https://github.com/Kamran2022/Project-Tracker/assets/97768463/9d58322d-c709-4bea-a6df-1fe892244920)
+
 Project Management: Easily create, update, and view projects.
 Employee Assignment: Assign and manage employees on different projects.
 Timeline Tracking: Monitor project progress with start and end dates.
@@ -27,6 +30,8 @@ After launching the application, navigate to the home page via your web browser.
 Create Projects: Add new projects with details including start and end dates.
 Assign Employees: Link employees to specific projects.
 Track Progress: View and update the timelines of ongoing projects.
+
+![Screenshot 2023-12-19 183841](https://github.com/Kamran2022/Project-Tracker/assets/97768463/75106023-8701-4a26-811a-bd7b0378541a)
 
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.

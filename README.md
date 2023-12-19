@@ -1,4 +1,5 @@
 Project Tracker
+
 Introduction
 Project Tracker is a dynamic and intuitive web application designed to streamline the management of projects and their associated employees. Built using the Spring Framework, it integrates various technologies like SQL, HTML, CSS, JavaScript, and Thymeleaf, offering a comprehensive solution for tracking project timelines and employee assignments.
 
@@ -11,6 +12,7 @@ Responsive Design: Crafted with HTML, CSS, and JavaScript for a seamless user ex
 Thymeleaf Integration: Enhances server-side rendering capabilities.
 
 Installation
+
 To get a local copy up and running, follow these simple steps:
 
 Clone the repo:
@@ -24,6 +26,7 @@ After launching the application, navigate to the home page via your web browser.
 Create Projects: Add new projects with details including start and end dates.
 Assign Employees: Link employees to specific projects.
 Track Progress: View and update the timelines of ongoing projects.
+
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -35,5 +38,5 @@ Open a Pull Request
 
 Contact
 
-Your Name - ahmadzaikamran905@gmail.com
+Kamran Ahmadzai - ahmadzaikamran905@gmail.com
 Project Link: https://github.com/Kamran2022/Project-Tracker.git

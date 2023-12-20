@@ -26,7 +26,7 @@ To get a local copy up and running, follow these simple steps:
 
 ## Usage
 
-After launching the application, navigate to the home page via your web browser. From there, you can:
+After launching the application, navigate to the home page via your web browser to localhost:8080 server. From there, you can:
 
 - **Create Projects**: Add new projects with details including start and end dates.
 - **Assign Employees**: Link employees to specific projects.

@@ -3,6 +3,19 @@
 ## Introduction
 Project Tracker is a sophisticated web application designed for effective management of projects and employee assignments. Leveraging the Spring Framework, this application integrates technologies like HTML, CSS, JavaScript, and Thymeleaf. It primarily uses an embedded database for ease of setup, with the option to switch to a SQL database.
 
+## Features
+- **Project Management**: Create, update, and view projects easily.
+- **Employee Assignment**: Manage employee roles and responsibilities in various projects.
+- **Timeline Tracking**: Monitor project timelines, including start and end dates.
+- **Embedded Database**: Comes configured with an embedded database for immediate use.
+- **Responsive UI**: Built with HTML, CSS, and JavaScript for a user-friendly experience.
+- **Thymeleaf Templating**: Utilizes Thymeleaf for dynamic server-side HTML views.
+
+## Installation
+1. **Clone the repo**:
+   ```sh
+   git clone [your-repo-link]
+
 
 Project Tracker
 

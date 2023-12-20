@@ -24,7 +24,7 @@ To get a local copy up and running, follow these simple steps:
 3. **Start the Spring Boot application.**
 
 
-##Usage
+## Usage
 
 After launching the application, navigate to the home page via your web browser. From there, you can:
 

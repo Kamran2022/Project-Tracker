@@ -34,7 +34,8 @@ After launching the application, navigate to the home page via your web browser.
 
 ![Screenshot 2023-12-19 183841](https://github.com/Kamran2022/Project-Tracker/assets/97768463/75106023-8701-4a26-811a-bd7b0378541a)
 
-##Contact
+## Contact
 
 Kamran Ahmadzai - ahmadzaikamran905@gmail.com
+
 **Project Link**: https://github.com/Kamran2022/Project-Tracker.git

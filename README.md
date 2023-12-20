@@ -20,8 +20,8 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repo**: 
    ```sh
    git clone https://github.com/Kamran2022/Project-Tracker.git
-2. Open the project in your preferred IDE.
-3. Start the Spring Boot application.
+2. **Open the project in your preferred IDE.**
+3. **Start the Spring Boot application.**
 
 
 Usage

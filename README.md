@@ -1,42 +1,26 @@
 # Project Tracker
 
 ## Introduction
-Project Tracker is a sophisticated web application designed for effective management of projects and employee assignments. Leveraging the Spring Framework, this application integrates technologies like HTML, CSS, JavaScript, and Thymeleaf. It primarily uses an embedded database for ease of setup, with the option to switch to a SQL database.
-
-## Features
-- **Project Management**: Create, update, and view projects easily.
-- **Employee Assignment**: Manage employee roles and responsibilities in various projects.
-- **Timeline Tracking**: Monitor project timelines, including start and end dates.
-- **Embedded Database**: Comes configured with an embedded database for immediate use.
-- **Responsive UI**: Built with HTML, CSS, and JavaScript for a user-friendly experience.
-- **Thymeleaf Templating**: Utilizes Thymeleaf for dynamic server-side HTML views.
-
-## Installation
-1. **Clone the repo**:
-   ```sh
-   git clone [your-repo-link]
-
-
-Project Tracker
-
-Introduction
 Project Tracker is a dynamic and intuitive web application designed to streamline the management of projects and their associated employees. Built using the Spring Framework, it integrates various technologies like SQL, HTML, CSS, JavaScript, and Thymeleaf, offering a comprehensive solution for tracking project timelines and employee assignments.
 
-Features
-
+## Features
 
 ![Screenshot 2023-12-19 183817](https://github.com/Kamran2022/Project-Tracker/assets/97768463/9d58322d-c709-4bea-a6df-1fe892244920)
 
+- **Project Management**: Easily create, assign, and view projects.
+- **Employee Assignment**: Assign and manage employees on different projects.
+- **Timeline Tracking**: Monitor project progress with start and end dates.
+- **Database Integration**: Utilizes SQL for robust data management.
+- **Responsive Design**: Crafted with HTML, CSS, and JavaScript for a seamless user experience.
+- **Thymeleaf Integration**: Enhances server-side rendering capabilities.
 
-- Project Management: Easily create, assign, and view projects.
-- Employee Assignment: Assign and manage employees on different projects.
-- Timeline Tracking: Monitor project progress with start and end dates.
-- Database Integration: Utilizes SQL for robust data management.
-- Responsive Design: Crafted with HTML, CSS, and JavaScript for a seamless user experience.
-- Thymeleaf Integration: Enhances server-side rendering capabilities.
-
-Installation
+## Installation
 To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repo**: 
+   ```sh
+   git clone https://github.com/Kamran2022/Project-Tracker.git
+
 
 1. Clone the repo: `git clone https://github.com/Kamran2022/Project-Tracker.git`
 2. Open the project in your preferred IDE.

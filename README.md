@@ -24,17 +24,17 @@ To get a local copy up and running, follow these simple steps:
 3. **Start the Spring Boot application.**
 
 
-Usage
+##Usage
 
 After launching the application, navigate to the home page via your web browser. From there, you can:
 
-- Create Projects: Add new projects with details including start and end dates.
-- Assign Employees: Link employees to specific projects.
-- Track Progress: View and update the timelines of ongoing projects.
+- **Create Projects**: Add new projects with details including start and end dates.
+- **Assign Employees**: Link employees to specific projects.
+- **Track Progress**: View and update the timelines of ongoing projects.
 
 ![Screenshot 2023-12-19 183841](https://github.com/Kamran2022/Project-Tracker/assets/97768463/75106023-8701-4a26-811a-bd7b0378541a)
 
-Contact
+##Contact
 
 Kamran Ahmadzai - ahmadzaikamran905@gmail.com
-Project Link: https://github.com/Kamran2022/Project-Tracker.git
+**Project Link**: https://github.com/Kamran2022/Project-Tracker.git
